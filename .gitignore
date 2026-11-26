@@ -19,3 +19,6 @@ local.properties
 
 # Configuracion local de Android Studio
 /.idea/
+
+# README solo local (no se sube a GitHub)
+/README.md
